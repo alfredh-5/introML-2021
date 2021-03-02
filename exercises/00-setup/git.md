@@ -39,7 +39,7 @@ All of this course's exercises can be found at: https://github.com/vita-epfl/int
 In order to get a local copy of this repository, you will need to clone it.
 In Git terminology, `cloning` means to creates a local copy of a project that already exists remotely.
 
-To clone the repository, navigate to the main page and click on the **Code** button above the list of files. You can then click on the **Open with GitHub Desktop** button to clone and open the repository with GitHub Desktop. Once this is done, you will need to choose the local path in which the repository will be cloned, and then click on the **Clone** button in the bottom right.
+To clone the repository, navigate to the main page and click on the **Code** button above the list of files. You can then click on the **Open with GitHub Desktop** button to clone and open the repository with GitHub Desktop. Once this is done, you will need to choose the local path in which the repository will be cloned with the **Choose...** button, and then click on the **Clone** button in the bottom right.
 
 A step-by-step tutorial with pictures can be found [here](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/cloning-a-repository-from-github-to-github-desktop).
 
